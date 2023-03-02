@@ -86,4 +86,4 @@ VultureModal.close('vulture-id') // Close modal
 
 ## License
 
-MIT © [Selim Hamzaoğulları](https://github.com/selimhamzaogullari)
+ISC © [Selim Hamzaoğulları](https://github.com/selimhamzaogullari)
